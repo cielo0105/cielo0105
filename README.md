@@ -45,7 +45,7 @@
  
   <br><br>
 
-<h1>💡프로젝트 💡</h1>
+<h1>💡 프로젝트 💡</h1>
 
 |기간|프로젝트|사용 기술|링크|
 |:---:|:---:|:---:|:---:|
@@ -54,7 +54,8 @@
 |2023-04~2023-05|공모주 정보 제공 시스템|<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <br><img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> |https://github.com/cielo0105/KB_IT_Project|
 
 <br>
-<h2>💡백준 티어 💡</h2>
+
+<h2>💻 Algorithm 💻</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cielo0105)](https://solved.ac/cielo0105)
 
